@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-02-15T12:43:39.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="paDqYWOfNtE5ZqLYhfWO" version="23.1.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="654" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="419.41" y="285" as="sourcePoint" />
+            <mxPoint x="420" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Organizowanie nowego turnieju." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Wypełnienie zgłoszenia&amp;nbsp;&lt;br&gt;udziału w turnieju&amp;nbsp;&lt;/font&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry x="0.0123" y="60" relative="1" as="geometry">
+            <mxPoint x="-1" y="-6" as="offset" />
+            <mxPoint x="419.5" y="120" as="sourcePoint" />
+            <mxPoint x="420" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-0" value="Utworzenie&amp;nbsp;&lt;br&gt;nowego&amp;nbsp;&lt;br&gt;turnieju" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Rejestracja graczy&amp;nbsp;&lt;br&gt;(do końca wyznaczonego terminu)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="313" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-3" value="Gotowy turniej" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-4" value="Zapisy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-6" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="419.45000000000005" y="420" as="sourcePoint" />
+            <mxPoint x="419" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Zakończenie zapisów&amp;nbsp;&lt;br&gt;i utworzenie nowej drabinki&amp;nbsp;&lt;br&gt;par playoff&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="430" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="419.95000000000005" y="570" as="sourcePoint" />
+            <mxPoint x="420" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Wysłanie informacji &lt;br&gt;o rozpoczęciu turnieju.&lt;br&gt;Rozpoczęcie turnieju&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-11" value="Odbywający się turniej" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-12" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="420.00000000000006" y="700" as="sourcePoint" />
+            <mxPoint x="420.05" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Zakończenie turnieju&lt;br&gt;po wszystkich gier&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-15" value="Koniec turnieju" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="780" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-16" value="Opublikowanie wyników turnieju" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-21" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="419.93000000000006" y="810" as="sourcePoint" />
+            <mxPoint x="420" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F2ij5PZQU6SUCR9NHPBP-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Podanie wyników&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="835" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
